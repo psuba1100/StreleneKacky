@@ -13,7 +13,8 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.3/css/dataTables.bootstrap4.min.css" />
     <link rel="stylesheet" href="resources/style.css">
     <link rel="stylesheet" href="resources/custombootstrap.css">
-    <title>Title for this</title>
+    <title>Strelené kačice</title>
+    <link rel="shortcut icon" href="resources/images/Frame 6 (1).png" type="image/x-icon">
 </head>
 
 <body>
